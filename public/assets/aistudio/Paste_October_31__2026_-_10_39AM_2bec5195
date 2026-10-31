@@ -1,0 +1,1271 @@
+# PROMPT THIẾT KẾ WEBSITE GIÁO DỤC TIN HỌC LỚP 5
+## CHỦ ĐỀ 2 – BÀI 2: TÌM KIẾM THÔNG TIN TRÊN WEBSITE
+
+### I. VAI TRÒ VÀ NHIỆM VỤ
+
+Hãy đóng vai một chuyên gia thiết kế Website giáo dục (EdTech), chuyên gia UI/UX, lập trình viên Website và chuyên gia xây dựng học liệu số dành cho học sinh tiểu học, có chuyên môn về Chương trình Giáo dục phổ thông 2018 môn Tin học.
+
+Hãy thiết kế và xây dựng một Website học tập tương tác dành cho học sinh lớp 5 với tên gọi:
+
+**“THÁM TỬ WEBSITE – HÀNH TRÌNH KHÁM PHÁ THẾ GIỚI THÔNG TIN”**
+
+Thông tin bài học:
+- Môn học: Tin học lớp 5.
+- Chủ đề 2.
+- Bài 2: Tìm kiếm thông tin trên website.
+- Đối tượng: Học sinh lớp 5, khoảng 10–11 tuổi.
+- Thời lượng: 2 tiết học.
+- Ngôn ngữ: Tiếng Việt.
+
+**Mục tiêu tổng quát:** Giúp học sinh biết tìm kiếm thông tin trên một website cho trước theo nhiệm vụ cụ thể; lựa chọn từ khóa hoặc khu vực thông tin phù hợp; nhận biết kết quả có ích; biết kiểm tra thông tin trước khi sử dụng; hợp tác và chia sẻ kết quả tìm kiếm với các bạn.
+
+Đồng thời, giúp học sinh nhận thức được vai trò hỗ trợ của công cụ tìm kiếm và trí tuệ nhân tạo (AI), biết sử dụng các công cụ này đúng mục đích và không tin tưởng tuyệt đối vào những gợi ý được cung cấp.
+
+Website phải được xây dựng như một **môi trường thực hành kỹ năng tìm kiếm thông tin**, không phải một trang Web chỉ có nội dung lý thuyết và câu hỏi trắc nghiệm.
+
+---
+
+# II. MỤC TIÊU VÀ YÊU CẦU CẦN ĐẠT
+
+Toàn bộ nội dung, hoạt động và bài tập trên Website phải bám sát những yêu cầu sau:
+
+### 1. Năng lực Tin học
+
+- Tìm được trên website cho trước những thông tin phù hợp và có ích cho nhiệm vụ đặt ra.
+- Hợp tác, chia sẻ được thông tin với các bạn trong nhóm để hoàn thành công việc được giao.
+
+### 2. Năng lực AI
+
+- Biết rằng việc sử dụng AI phải phù hợp với nhu cầu, khả năng và mục đích của người học.
+- Tránh lạm dụng hoặc tin tưởng tuyệt đối vào gợi ý của AI.
+- Biết kiểm tra lại thông tin khi công cụ gợi ý chưa đúng, chưa đủ hoặc chưa phù hợp.
+
+### 3. Năng lực số
+
+- Tìm được dữ liệu, thông tin và nội dung số thông qua tìm kiếm đơn giản trong môi trường số.
+- Biết xác định nhiệm vụ cần tìm.
+- Biết chọn từ khóa hoặc khu vực thông tin phù hợp trên website.
+- Biết chia sẻ kết quả tìm kiếm với các bạn trong nhóm.
+
+### 4. Phẩm chất
+
+- Chăm chỉ: Tích cực tìm kiếm thông tin và hoàn thành nhiệm vụ.
+- Trung thực: Ghi nhận đúng thông tin tìm được, không tự ý thêm nội dung khi chưa kiểm tra.
+- Trách nhiệm: Biết chia sẻ thông tin rõ ràng, tôn trọng ý kiến của bạn và sử dụng công cụ số/AI đúng mục đích.
+
+**Nguyên tắc thiết kế:** Mọi hoạt động phải hướng học sinh đến quy trình:
+
+**XÁC ĐỊNH NHIỆM VỤ → CHỌN TỪ KHÓA/CHỦ ĐỀ → TÌM KIẾM → KIỂM TRA → CHIA SẺ.**
+
+---
+
+# III. ĐỊNH HƯỚNG THIẾT KẾ WEBSITE
+
+### 1. Phong cách tổng thể
+
+Thiết kế Website theo phong cách:
+
+**Modern EdTech + Cute Chibi + Digital Detective.**
+
+Các đặc điểm:
+- Hiện đại, trẻ trung, chuyên nghiệp.
+- Thân thiện với học sinh lớp 5.
+- Có tính khám phá và thử thách.
+- Màu sắc sinh động nhưng không quá trẻ con.
+- Hình ảnh minh họa trực quan.
+- Các nội dung được chia thành từng nhiệm vụ nhỏ.
+- Có nhiều hoạt động thực hành thực tế.
+- Có hiệu ứng chuyển động nhẹ nhàng.
+- Dễ sử dụng trên máy tính và điện thoại.
+
+### 2. Ý tưởng chủ đạo
+
+Biến toàn bộ Website thành một **trung tâm điều tra và khám phá thông tin trên Internet**.
+
+Học sinh đóng vai những thám tử nhí, nhận nhiệm vụ từ nhân vật hướng dẫn và phải tìm kiếm thông tin trên website để hoàn thành thử thách.
+
+Nhân vật chính là **Thám tử Tí** – một bạn học sinh chibi thông minh, tò mò, yêu thích khám phá công nghệ.
+
+Nhân vật đồng hành:
+- Thám tử Tí: Hướng dẫn các nhiệm vụ tìm kiếm.
+- Robot Key: Gợi ý cách chọn từ khóa.
+- AI Bot: Đại diện cho công cụ AI, giúp học sinh hiểu AI có thể hỗ trợ nhưng không phải lúc nào cũng đúng.
+- Bé Sao: Nhân vật động viên và trao huy hiệu.
+
+### 3. Bố cục tổng thể
+
+Website gồm các trang:
+
+1. Trang chủ.
+2. Giới thiệu bài học.
+3. Khởi động – Nhiệm vụ của nhóm An.
+4. Khám phá kiến thức – Cách tìm thông tin trên website.
+5. Thực hành 1 – Tìm kiếm theo chủ đề và ô tìm kiếm.
+6. Thực hành 2 – Bí mật của từ khóa.
+7. Thực hành 3 – Thám tử website.
+8. Thực hành 4 – Kiểm tra thông tin và sử dụng AI.
+9. Hoạt động nhóm – Phiếu Thám tử website.
+10. Trò chơi tương tác.
+11. Kiểm tra và đánh giá cuối bài.
+12. Thành tích học tập.
+
+---
+
+# IV. THIẾT KẾ TRANG CHỦ
+
+### 1. Thanh điều hướng
+
+Thiết kế Header gồm:
+
+- Logo: Kính lúp kết hợp với nhân vật thám tử chibi.
+- Tên Website: THÁM TỬ WEBSITE.
+- Trang chủ.
+- Khám phá bài học.
+- Thực hành.
+- Trò chơi.
+- Thử thách.
+- Thành tích.
+
+Có nút nổi bật:
+
+**“BẮT ĐẦU NHIỆM VỤ”**
+
+Menu đơn giản, dễ sử dụng và có biểu tượng minh họa tương ứng.
+
+### 2. Banner chính
+
+Thiết kế banner lớn với hình minh họa:
+
+- Nhân vật thám tử chibi đang cầm kính lúp.
+- Một chiếc máy tính hiển thị giao diện website.
+- Các biểu tượng tìm kiếm, dữ liệu, tài liệu, hình ảnh.
+- Robot AI đang đưa ra gợi ý.
+- Những dấu hỏi và ngôi sao xung quanh.
+
+Tiêu đề:
+
+**“TRỞ THÀNH THÁM TỬ TÌM KIẾM THÔNG TIN!”**
+
+Tiêu đề phụ:
+
+“Em đã biết cách tìm đúng thông tin trên website chưa? Hãy cùng khám phá, thực hành và chinh phục những thử thách thú vị nhé!”
+
+Hai nút:
+- KHÁM PHÁ BÀI HỌC.
+- THỬ THÁCH NGAY.
+
+### 3. Giới thiệu bài học
+
+Tạo một khu vực có tiêu đề:
+
+**“HÔM NAY CHÚNG TA SẼ HỌC GÌ?”**
+
+Giới thiệu:
+
+Trong bài học này, em sẽ:
+- Biết xác định thông tin mình cần tìm.
+- Biết chọn từ khóa phù hợp.
+- Biết tìm thông tin theo chủ đề của website.
+- Biết sử dụng ô tìm kiếm.
+- Biết lựa chọn thông tin phù hợp với nhiệm vụ.
+- Biết kiểm tra thông tin trước khi tin tưởng.
+- Biết chia sẻ kết quả với các bạn.
+- Biết sử dụng công cụ AI đúng mục đích.
+
+### 4. Bản đồ hành trình học tập
+
+Thiết kế năm chặng:
+
+1. Nhận nhiệm vụ.
+2. Khám phá website.
+3. Chọn từ khóa thông minh.
+4. Thực hành tìm kiếm.
+5. Kiểm tra và chia sẻ thông tin.
+
+Mỗi chặng có một biểu tượng chibi riêng.
+
+---
+
+# V. PHẦN 1 – KHỞI ĐỘNG: NHIỆM VỤ CỦA NHÓM AN
+
+### 1. Câu chuyện mở đầu
+
+Thiết kế một đoạn truyện tranh tương tác gồm ba khung hình.
+
+**Tình huống:**
+
+Nhóm An được giao nhiệm vụ chuẩn bị bài trình bày giới thiệu về “Ngày hội Trạng Nguyên nhỏ tuổi”.
+
+Nhóm cần tìm:
+- Ngày hội là hoạt động gì?
+- Có những nội dung nào?
+- Thông tin nào phù hợp để giới thiệu với các bạn?
+
+Hình ảnh:
+- Bốn bạn học sinh đang trao đổi.
+- Một chiếc máy tính mở website.
+- Các bạn đang phân vân không biết tìm ở đâu.
+
+Lời thoại:
+
+An: “Chúng mình phải tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi!”
+
+Bình: “Vậy chúng mình nên tìm ở đâu nhỉ?”
+
+Lan: “Có phải cứ gõ thật nhiều từ vào là sẽ tìm được không?”
+
+Tí: “Hãy cùng mình khám phá cách tìm thông tin nhé!”
+
+### 2. Câu hỏi tương tác
+
+Câu hỏi 1:
+
+“Trước khi tìm kiếm thông tin, nhóm An cần làm gì?”
+
+A. Xác định rõ thông tin cần tìm.
+
+B. Nhấn vào tất cả các đường link.
+
+C. Chọn ngẫu nhiên một bài viết.
+
+Đáp án: A.
+
+Câu hỏi 2:
+
+“Sau khi xác định nhiệm vụ, nhóm An có thể làm gì?”
+
+A. Chọn từ khóa hoặc chủ đề phù hợp.
+
+B. Đọc tất cả thông tin trên Internet.
+
+C. Tin ngay kết quả đầu tiên.
+
+Đáp án: A.
+
+Câu hỏi 3:
+
+“Sau khi tìm được thông tin, nhóm cần làm gì?”
+
+A. Chia sẻ ngay mà không cần kiểm tra.
+
+B. Kiểm tra xem thông tin có phù hợp không rồi chia sẻ.
+
+C. Tự ý thêm nội dung cho hấp dẫn.
+
+Đáp án: B.
+
+Sau hoạt động, hiển thị thông điệp:
+
+**“Muốn tìm kiếm hiệu quả, em cần biết mình đang tìm gì, tìm ở đâu và kiểm tra kết quả như thế nào.”**
+
+---
+
+# VI. PHẦN 2 – KHÁM PHÁ KIẾN THỨC
+
+## 1. Khám phá giao diện một website
+
+Thiết kế một website mẫu mô phỏng giao diện trang tin dành cho thiếu nhi.
+
+Tên website mô phỏng:
+
+**GÓC THÔNG TIN THIẾU NHI**
+
+Giao diện gồm:
+
+- Logo website.
+- Nút Trang chủ.
+- Thanh danh mục chủ đề.
+- Ô tìm kiếm.
+- Nút tìm kiếm.
+- Tiêu đề bài viết.
+- Hình ảnh minh họa.
+- Khu vực nội dung.
+- Các bài viết liên quan.
+
+Các danh mục ví dụ:
+- Thiếu nhi.
+- Thể thao.
+- Học tập.
+- Hoạt động trường học.
+- Văn hóa và đọc sách.
+
+Có chú thích tương tác.
+
+Khi học sinh nhấn vào từng khu vực, Website hiển thị giải thích:
+
+**Trang chủ:** Nơi hiển thị những nội dung chính của website.
+
+**Danh mục/chủ đề:** Giúp người dùng tìm thông tin theo từng lĩnh vực.
+
+**Ô tìm kiếm:** Nơi nhập từ khóa để tìm nội dung cần thiết.
+
+**Tiêu đề bài viết:** Giúp người đọc biết bài viết nói về điều gì.
+
+**Hình ảnh minh họa:** Hỗ trợ người đọc hiểu nội dung.
+
+### 2. Hoạt động: Tìm thông tin bằng cách duyệt theo chủ đề
+
+Giải thích:
+
+“Một số website sắp xếp thông tin thành các chủ đề. Khi muốn tìm một nội dung, em có thể chọn chủ đề phù hợp để xem những thông tin liên quan.”
+
+Ví dụ:
+
+Nhiệm vụ: Tìm thông tin về bóng đá.
+
+Cách thực hiện:
+1. Quan sát các chủ đề trên website.
+2. Chọn mục Thể thao.
+3. Quan sát những bài viết hiển thị.
+4. Chọn bài viết có nội dung phù hợp với nhiệm vụ.
+
+Tạo giao diện website cho phép học sinh thực hiện đầy đủ các thao tác này.
+
+### 3. Hoạt động: Tìm thông tin bằng ô tìm kiếm
+
+Giải thích:
+
+“Nếu muốn tìm nhanh một thông tin cụ thể, em có thể sử dụng ô tìm kiếm của website.”
+
+Các bước:
+
+1. Xác định thông tin cần tìm.
+2. Chọn từ khóa ngắn gọn, rõ nghĩa.
+3. Nhập từ khóa vào ô tìm kiếm.
+4. Nhấn nút Tìm kiếm hoặc Enter.
+5. Quan sát các kết quả.
+6. Chọn kết quả phù hợp với nhiệm vụ.
+
+Tạo một khu vực tìm kiếm mô phỏng hoạt động thực tế.
+
+Ví dụ:
+
+Nhập từ khóa “bóng đá” → hiển thị những bài viết có nội dung liên quan đến bóng đá.
+
+Nhập từ khóa “Ngày hội Trạng Nguyên nhỏ tuổi” → hiển thị nội dung liên quan đến nhiệm vụ.
+
+Nếu không tìm thấy kết quả, hiển thị lời gợi ý:
+
+“Em hãy thử sử dụng từ khóa ngắn gọn hơn hoặc kiểm tra lại chính tả nhé!”
+
+### 4. Kết luận kiến thức
+
+Hiển thị một sơ đồ lớn:
+
+**TÌM THEO CHỦ ĐỀ**
+hoặc
+**TÌM BẰNG Ô TÌM KIẾM VỚI TỪ KHÓA PHÙ HỢP**
+
+Cả hai cách đều hướng đến mục tiêu:
+
+**TÌM ĐƯỢC THÔNG TIN PHÙ HỢP VỚI NHIỆM VỤ.**
+
+---
+
+# VII. PHẦN 3 – THỰC HÀNH: BÍ MẬT CỦA TỪ KHÓA
+
+<badge color="info">Hoạt động thực hành bắt buộc</badge>
+
+### 1. Khám phá từ khóa
+
+Giải thích:
+
+“Từ khóa là từ hoặc cụm từ ngắn gọn thể hiện nội dung mà em muốn tìm kiếm.”
+
+Ví dụ:
+- Nhiệm vụ: Tìm thông tin về bóng đá → Từ khóa: bóng đá.
+- Nhiệm vụ: Tìm thông tin về thiếu nhi → Từ khóa: thiếu nhi.
+- Nhiệm vụ: Tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi → Từ khóa: Ngày hội Trạng Nguyên nhỏ tuổi.
+
+Hướng dẫn học sinh:
+- Chọn từ ngắn gọn.
+- Đúng trọng tâm.
+- Thể hiện rõ điều đang tìm.
+- Tránh nhập những câu quá dài, không cần thiết.
+
+### 2. Trò chơi: Chọn đúng từ khóa
+
+Hiển thị nhiệm vụ và ba phương án từ khóa.
+
+Ví dụ:
+
+**Nhiệm vụ:** Tìm thông tin về bóng đá.
+
+A. Bóng đá.
+
+B. Em muốn biết tất cả mọi thứ trên thế giới.
+
+C. Những điều em thích.
+
+Đáp án: A.
+
+Tiếp tục với các nhiệm vụ:
+- Tìm thông tin về hoạt động thiếu nhi.
+- Tìm lịch hoạt động của trường.
+- Tìm thông tin về một nhân vật trong bài đọc.
+- Tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi.
+
+Sau mỗi câu hỏi, giải thích vì sao từ khóa được lựa chọn phù hợp.
+
+### 3. Thực hành: Em tự nhập từ khóa
+
+Thiết kế một ô tìm kiếm tương tác.
+
+Nhiệm vụ 1: Tìm thông tin về thể thao.
+
+Học sinh tự nhập từ khóa, hệ thống nhận diện nội dung và phản hồi.
+
+Nhiệm vụ 2: Tìm thông tin về lịch hoạt động của trường.
+
+Nhiệm vụ 3: Tìm thông tin về một nhân vật trong bài đọc.
+
+Hệ thống đánh giá:
+- Từ khóa có đúng trọng tâm không?
+- Có liên quan đến nhiệm vụ không?
+- Có quá chung chung không?
+- Có thể sử dụng từ khóa rõ nghĩa hơn không?
+
+Không bắt buộc học sinh phải gõ đúng một cụm từ duy nhất. Hãy chấp nhận những từ khóa khác nhau nhưng có ý nghĩa phù hợp.
+
+---
+
+# VIII. PHẦN 4 – THỰC HÀNH: THÁM TỬ WEBSITE
+
+<badge color="success">Hoạt động thực hành trọng tâm</badge>
+
+Đây là phần quan trọng nhất của Website.
+
+Thiết kế thành một phòng điều tra thông tin, trong đó học sinh trực tiếp sử dụng website mẫu để hoàn thành nhiệm vụ.
+
+### 1. Giao diện phòng thực hành
+
+Bố cục chia làm hai khu vực:
+
+**Khu vực bên trái: Nhiệm vụ**
+
+Hiển thị thẻ nhiệm vụ:
+
+“Nhóm em cần tìm thông tin phù hợp để giới thiệu ngắn về một sự kiện thiếu nhi.”
+
+Các yêu cầu:
+- Xác định nhiệm vụ cần tìm.
+- Chọn chủ đề hoặc từ khóa.
+- Tìm kiếm trên website.
+- Lựa chọn thông tin phù hợp.
+- Ghi lại kết quả.
+- Chia sẻ với bạn trong nhóm.
+
+**Khu vực bên phải: Website thực hành**
+
+Hiển thị website mẫu với:
+- Trang chủ.
+- Thanh danh mục.
+- Ô tìm kiếm.
+- Các bài viết.
+- Tiêu đề và hình ảnh.
+- Kết quả tìm kiếm.
+
+Học sinh thực hiện trực tiếp các thao tác trên giao diện.
+
+### 2. Nhiệm vụ thực hành 1: Tìm theo chủ đề
+
+Đưa ra nhiệm vụ:
+
+“Em cần tìm thông tin về thể thao.”
+
+Yêu cầu:
+1. Quan sát các danh mục.
+2. Chọn chủ đề phù hợp.
+3. Quan sát các bài viết.
+4. Chọn nội dung có ích.
+5. Ghi lại kết quả.
+
+Hệ thống ghi nhận thao tác chọn đúng chủ đề.
+
+### 3. Nhiệm vụ thực hành 2: Tìm bằng ô tìm kiếm
+
+Đưa ra nhiệm vụ:
+
+“Tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi.”
+
+Học sinh phải:
+1. Xác định từ khóa.
+2. Nhập từ khóa.
+3. Nhấn tìm kiếm.
+4. Quan sát kết quả.
+5. Lựa chọn bài viết phù hợp.
+
+Hệ thống đánh giá quá trình tìm kiếm, không chỉ đánh giá việc tìm được kết quả cuối cùng.
+
+### 4. Nhiệm vụ thực hành 3: Tìm thông tin về nhân vật
+
+Đưa ra nhiệm vụ:
+
+“Tìm thông tin về một nhân vật xuất hiện trong bài đọc mà em đã học.”
+
+Học sinh:
+- Xác định tên nhân vật.
+- Nhập từ khóa.
+- Chọn kết quả phù hợp.
+- Ghi lại thông tin cần thiết.
+- Chia sẻ kết quả với bạn.
+
+### 5. Nhiệm vụ thực hành 4: Tìm lịch hoạt động của trường
+
+Đưa ra tình huống:
+
+“Lớp em muốn biết lịch hoạt động của trường để chuẩn bị tham gia.”
+
+Học sinh cần xác định:
+- Cần tìm thông tin gì?
+- Có thể tìm ở chủ đề nào?
+- Từ khóa nào phù hợp?
+- Kết quả nào đáp ứng nhiệm vụ?
+
+Lưu ý: Website thực hành cần sử dụng dữ liệu mẫu do giáo viên chuẩn bị và ghi rõ đây là dữ liệu mô phỏng. Không tạo thông tin giả rồi trình bày như tin tức thật.
+
+### 6. Phản hồi sau thực hành
+
+Sau mỗi nhiệm vụ, Website hiển thị:
+- Nhiệm vụ đã hoàn thành.
+- Cách tìm đã sử dụng.
+- Từ khóa đã chọn.
+- Thông tin tìm được.
+- Mức độ phù hợp.
+- Gợi ý cải thiện.
+
+Thông điệp:
+
+“Thám tử giỏi không phải là người tìm được nhiều thông tin nhất, mà là người tìm được thông tin phù hợp nhất với nhiệm vụ!”
+
+---
+
+# IX. PHẦN 5 – KIỂM TRA THÔNG TIN VÀ SỬ DỤNG AI CÓ TRÁCH NHIỆM
+
+<badge color="discovery">Nội dung tích hợp năng lực AI</badge>
+
+### 1. Khám phá: Không phải kết quả nào cũng phù hợp
+
+Giải thích:
+
+“Kết quả tìm kiếm hoặc gợi ý của AI có thể nhanh chóng và hữu ích, nhưng không phải lúc nào cũng chính xác hoặc phù hợp với nhiệm vụ.”
+
+Đưa ra tình huống:
+
+“Em cần tìm thông tin về một hoạt động thiếu nhi. Công cụ tìm kiếm lại gợi ý một bài viết về hoạt động của người lớn.”
+
+Câu hỏi:
+
+“Em nên làm gì?”
+
+A. Sử dụng ngay thông tin đó.
+
+B. Kiểm tra lại nội dung, chọn kết quả khác phù hợp hơn.
+
+C. Sao chép toàn bộ kết quả.
+
+Đáp án B.
+
+### 2. Ba lựa chọn khi tiếp nhận thông tin
+
+Thiết kế ba thẻ tương tác:
+
+**TIN NGAY**
+
+Không nên sử dụng khi chưa kiểm tra nội dung.
+
+**KIỂM TRA LẠI**
+
+Đọc kỹ bài viết, xem nội dung có phù hợp với nhiệm vụ không, kiểm tra nguồn thông tin và đối chiếu khi cần.
+
+**HỎI NGƯỜI LỚN/GIÁO VIÊN**
+
+Khi chưa hiểu, không chắc chắn hoặc gặp thông tin khó kiểm chứng.
+
+### 3. Trò chơi: AI có luôn đúng không?
+
+Tạo một nhân vật AI Bot chibi.
+
+AI Bot đưa ra các gợi ý tìm kiếm, trong đó có:
+- Gợi ý đúng.
+- Gợi ý chưa đủ.
+- Gợi ý không liên quan đến nhiệm vụ.
+
+Học sinh phải xác định:
+- Có thể sử dụng.
+- Cần kiểm tra lại.
+- Không phù hợp.
+
+Ví dụ:
+
+Nhiệm vụ: Tìm thông tin về bóng đá.
+
+Gợi ý 1: Một bài viết về bóng đá thiếu nhi.
+
+Gợi ý 2: Một bài viết về cách nấu ăn.
+
+Gợi ý 3: Một nội dung nói về thể thao nhưng không đề cập đến bóng đá.
+
+Học sinh phân tích mức độ phù hợp.
+
+Giải thích:
+
+“AI và công cụ tìm kiếm có thể hỗ trợ tra cứu, gợi ý từ khóa hoặc tóm tắt nội dung. Tuy nhiên, em cần kiểm tra lại và không tin tưởng tuyệt đối vào kết quả được gợi ý.”
+
+### 4. Thử thách: Phát hiện thông tin chưa phù hợp
+
+Hiển thị hai kết quả khác nhau.
+
+Học sinh phải:
+- Đọc tiêu đề.
+- Đọc nội dung.
+- Xác định nguồn.
+- So sánh với nhiệm vụ.
+- Lựa chọn nội dung phù hợp hơn.
+- Giải thích lí do.
+
+Không đánh giá chỉ dựa trên thứ tự kết quả hiển thị.
+
+### 5. Ghi nhớ
+
+Thiết kế thông điệp lớn:
+
+**“AI CÓ THỂ HỖ TRỢ EM, NHƯNG EM PHẢI BIẾT KIỂM TRA THÔNG TIN!”**
+
+---
+
+# X. PHẦN 6 – HOẠT ĐỘNG NHÓM: PHIẾU THÁM TỬ WEBSITE
+
+Đây là sản phẩm học tập quan trọng của bài học.
+
+Thiết kế một phiếu học tập số có thể điền trực tiếp trên Website.
+
+Tên phiếu:
+
+**PHIẾU HỌC TẬP – THÁM TỬ WEBSITE**
+
+Thông tin nhóm:
+- Tên nhóm.
+- Thành viên.
+- Người đọc nhiệm vụ.
+- Người tìm kiếm.
+- Người ghi kết quả.
+- Người báo cáo.
+
+Các trường nội dung:
+
+**1. Nhiệm vụ cần tìm**
+
+Ô nhập nội dung.
+
+**2. Từ khóa/chủ đề em chọn**
+
+Ô nhập từ khóa hoặc chọn chủ đề.
+
+**3. Thông tin tìm được**
+
+Ô nhập nội dung đã tìm thấy.
+
+**4. Cách kiểm tra khi công cụ gợi ý chưa đúng**
+
+Ô nhập câu trả lời.
+
+**5. Em chia sẻ thông tin với nhóm bằng cách nào?**
+
+Ô nhập câu trả lời.
+
+**6. Em có tin ngay kết quả đầu tiên không? Vì sao?**
+
+Ô nhập câu trả lời.
+
+Có nút:
+- LƯU PHIẾU.
+- XEM LẠI.
+- HOÀN THÀNH.
+
+Sau khi hoàn thành, hiển thị bản tổng hợp để học sinh báo cáo trước lớp.
+
+Khuyến khích học sinh lắng nghe và bổ sung kết quả của các nhóm khác.
+
+---
+
+# XI. THIẾT KẾ TRÒ CHƠI TƯƠNG TÁC
+
+Tạo khu vực riêng có tên:
+
+**“SÂN CHƠI THÁM TỬ WEBSITE”**
+
+Bao gồm ít nhất 5 trò chơi.
+
+### Trò chơi 1: Từ khóa siêu tốc
+
+- Hiển thị nhiệm vụ.
+- Học sinh lựa chọn từ khóa phù hợp.
+- Có 3–4 phương án.
+- Chấm điểm tự động.
+
+Ví dụ:
+
+Nhiệm vụ: Tìm thông tin về hoạt động thiếu nhi.
+
+Lựa chọn:
+- Thiếu nhi.
+- Những điều em muốn biết.
+- Tất cả các bài viết.
+- Một ngày của em.
+
+### Trò chơi 2: Tìm đúng khu vực
+
+Hiển thị giao diện một website.
+
+Học sinh nhấn vào:
+- Thanh chủ đề.
+- Ô tìm kiếm.
+- Tiêu đề.
+- Bài viết liên quan.
+
+Mục tiêu: Nhận biết các khu vực hỗ trợ tìm kiếm thông tin.
+
+### Trò chơi 3: Thám tử tìm kiếm
+
+Học sinh nhận một nhiệm vụ và trực tiếp thực hiện tìm kiếm trên website mẫu.
+
+Hệ thống đánh giá:
+- Xác định đúng nhiệm vụ.
+- Chọn chủ đề phù hợp.
+- Chọn từ khóa phù hợp.
+- Tìm được thông tin cần thiết.
+
+### Trò chơi 4: AI nói đúng hay sai?
+
+Hiển thị các gợi ý do AI Bot đưa ra.
+
+Học sinh phân loại:
+- Phù hợp.
+- Chưa đủ.
+- Không phù hợp.
+- Cần kiểm tra thêm.
+
+### Trò chơi 5: Ghép quy trình tìm kiếm
+
+Học sinh kéo thả các bước theo đúng trình tự:
+
+1. Xác định nhiệm vụ.
+2. Chọn từ khóa hoặc chủ đề.
+3. Tìm kiếm thông tin.
+4. Kiểm tra kết quả.
+5. Chia sẻ thông tin.
+
+Khi ghép đúng, hiển thị hiệu ứng chúc mừng.
+
+Tất cả trò chơi phải có tương tác thật, phản hồi ngay và có nút chơi lại.
+
+---
+
+# XII. BÀI TẬP THỰC HÀNH CUỐI BÀI
+
+Thiết kế phần:
+
+**“THỬ THÁCH LỚN – EM LÀ THÁM TỬ WEBSITE”**
+
+### Bài thực hành 1: Tìm thông tin theo chủ đề
+
+Nhiệm vụ:
+
+“Tìm một bài viết về thể thao trên website mẫu.”
+
+Học sinh thực hiện:
+- Mở website.
+- Chọn chủ đề Thể thao.
+- Quan sát danh sách bài viết.
+- Chọn nội dung phù hợp.
+- Ghi tên bài viết và thông tin tìm được.
+
+### Bài thực hành 2: Tìm thông tin bằng từ khóa
+
+Nhiệm vụ:
+
+“Tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi.”
+
+Học sinh:
+- Tự lựa chọn từ khóa.
+- Nhập vào ô tìm kiếm.
+- Chọn kết quả.
+- Ghi lại nội dung phù hợp.
+
+### Bài thực hành 3: Kiểm tra kết quả tìm kiếm
+
+Đưa ra hai kết quả có mức độ phù hợp khác nhau.
+
+Học sinh:
+- So sánh hai kết quả.
+- Xác định kết quả phù hợp hơn.
+- Nêu lí do.
+- Chỉ ra cách kiểm tra thông tin.
+
+### Bài thực hành 4: Chia sẻ thông tin với nhóm
+
+Học sinh hoàn thành phiếu Thám tử website và trình bày:
+- Nhiệm vụ nhóm.
+- Từ khóa đã sử dụng.
+- Thông tin đã tìm.
+- Lí do lựa chọn.
+- Cách kiểm tra kết quả.
+- Cách chia sẻ với các thành viên.
+
+### Bài thực hành 5: Xử lí gợi ý của AI
+
+Tình huống:
+
+“AI đưa ra một thông tin có vẻ liên quan đến nhiệm vụ nhưng nội dung chưa đầy đủ.”
+
+Yêu cầu học sinh lựa chọn cách xử lí phù hợp:
+- Sử dụng ngay.
+- Bỏ qua tất cả gợi ý.
+- Kiểm tra lại bằng website hoặc nguồn phù hợp, hỏi giáo viên nếu cần.
+
+Đáp án phù hợp: Kiểm tra lại.
+
+---
+
+# XIII. KIỂM TRA VÀ ĐÁNH GIÁ CUỐI BÀI
+
+Thiết kế bài kiểm tra gồm 10 câu hỏi, kết hợp trắc nghiệm và tình huống.
+
+### Câu 1
+Trước khi tìm kiếm thông tin trên website, em cần làm gì?
+
+A. Xác định nhiệm vụ cần tìm.
+
+B. Nhấn vào tất cả các nút.
+
+C. Mở nhiều trang ngẫu nhiên.
+
+Đáp án A.
+
+### Câu 2
+Muốn tìm thông tin về bóng đá, em có thể chọn chủ đề nào?
+
+A. Thể thao.
+
+B. Ẩm thực.
+
+C. Âm nhạc.
+
+Đáp án A.
+
+### Câu 3
+Muốn tìm nhanh một sự kiện trên website, em có thể sử dụng công cụ nào?
+
+A. Ô tìm kiếm.
+
+B. Nút thoát.
+
+C. Nút thu nhỏ.
+
+Đáp án A.
+
+### Câu 4
+Từ khóa nào phù hợp nhất khi tìm thông tin về thiếu nhi?
+
+A. Thiếu nhi.
+
+B. Những điều em muốn biết trên thế giới.
+
+C. Mọi thứ.
+
+Đáp án A.
+
+### Câu 5
+Khi kết quả tìm kiếm không liên quan đến nhiệm vụ, em nên làm gì?
+
+A. Sử dụng ngay.
+
+B. Điều chỉnh từ khóa hoặc chọn chủ đề phù hợp hơn.
+
+C. Chép lại toàn bộ.
+
+Đáp án B.
+
+### Câu 6
+Khi AI đưa ra thông tin chưa đầy đủ, em nên làm gì?
+
+A. Tin tuyệt đối.
+
+B. Kiểm tra lại bằng nguồn phù hợp.
+
+C. Chia sẻ ngay.
+
+Đáp án B.
+
+### Câu 7
+Khi tìm được thông tin phù hợp, em nên làm gì trước khi sử dụng?
+
+A. Kiểm tra nội dung và nguồn thông tin.
+
+B. Xóa tên nguồn.
+
+C. Tự ý thêm nội dung.
+
+Đáp án A.
+
+### Câu 8
+Khi làm việc nhóm, em nên chia sẻ thông tin như thế nào?
+
+A. Nói rõ thông tin đã tìm được và nguồn.
+
+B. Giấu thông tin.
+
+C. Chỉ nghe ý kiến của mình.
+
+Đáp án A.
+
+### Câu 9
+Nếu hai kết quả tìm kiếm khác nhau, nhóm nên làm gì?
+
+A. Chọn kết quả đầu tiên ngay lập tức.
+
+B. So sánh nhiệm vụ, nội dung và nguồn để kiểm tra.
+
+C. Chọn kết quả dài hơn.
+
+Đáp án B.
+
+### Câu 10
+Đâu là quy trình tìm kiếm phù hợp?
+
+A. Xác định nhiệm vụ → Chọn từ khóa/chủ đề → Tìm kiếm → Kiểm tra → Chia sẻ.
+
+B. Tìm kiếm → Chia sẻ ngay → Kiểm tra sau.
+
+C. Mở website → Chọn ngẫu nhiên → Sao chép.
+
+Đáp án A.
+
+### Kết quả đánh giá
+
+Hệ thống tự động:
+- Chấm điểm.
+- Hiển thị số câu đúng.
+- Hiển thị số câu chưa đúng.
+- Đưa ra nhận xét.
+- Gợi ý nội dung cần ôn tập.
+
+Mẫu phản hồi:
+
+90–100%: “Xuất sắc! Em đã trở thành thám tử tìm kiếm thông tin tài ba!”
+
+70–89%: “Rất tốt! Em đã biết cách tìm kiếm và kiểm tra thông tin.”
+
+50–69%: “Em đang tiến bộ! Hãy luyện thêm cách chọn từ khóa nhé!”
+
+Dưới 50%: “Đừng lo lắng! Hãy cùng Thám tử Tí khám phá lại bài học nhé!”
+
+Lưu ý: Bài trắc nghiệm chỉ là một phần đánh giá. Phải kết hợp với sản phẩm thực hành, phiếu học tập và khả năng hợp tác, chia sẻ của học sinh.
+
+---
+
+# XIV. HỆ THỐNG STICKER CHIBI
+
+Thiết kế một bộ nhân vật thống nhất, dễ thương, phù hợp với học sinh lớp 5.
+
+### Nhân vật 1: Thám tử Tí
+
+- Mặc trang phục thám tử.
+- Có kính lúp.
+- Mang balô nhỏ.
+- Đại diện cho tinh thần khám phá và tìm kiếm thông tin.
+
+### Nhân vật 2: Robot Key
+
+- Là robot nhỏ có hình bàn phím.
+- Đại diện cho việc lựa chọn từ khóa.
+- Có biểu cảm suy nghĩ, gợi ý và chúc mừng.
+
+### Nhân vật 3: AI Bot
+
+- Robot công nghệ.
+- Có màn hình hiển thị biểu tượng AI.
+- Giúp học sinh hiểu cách sử dụng công cụ AI đúng mục đích.
+- Có biểu cảm đưa ra gợi ý, cần kiểm tra, không chắc chắn.
+
+### Nhân vật 4: Bé Sao
+
+- Nhân vật ngôi sao nhỏ.
+- Xuất hiện khi học sinh hoàn thành nhiệm vụ.
+- Tạo hiệu ứng động viên và trao thưởng.
+
+### Các biểu cảm cần thiết
+
+- Chào mừng.
+- Đang suy nghĩ.
+- Đang tìm kiếm.
+- Ngạc nhiên.
+- Vui mừng.
+- Đưa ra gợi ý.
+- Cảnh báo cần kiểm tra.
+- Chúc mừng hoàn thành.
+- Động viên khi trả lời sai.
+
+Sử dụng sticker tại:
+- Trang chủ.
+- Tiêu đề bài học.
+- Hướng dẫn thực hành.
+- Phản hồi câu trả lời.
+- Khu vực trò chơi.
+- Kết quả kiểm tra.
+
+Không sử dụng sticker quá trẻ con hoặc quá dày đặc. Phong cách cần phù hợp học sinh lớp 5: đáng yêu, hiện đại, có cảm giác khám phá công nghệ.
+
+---
+
+# XV. GIAO DIỆN UI/UX
+
+### 1. Bảng màu
+
+Sử dụng màu:
+- Xanh dương: công nghệ và tin cậy.
+- Tím nhạt: khám phá.
+- Vàng: tạo điểm nhấn.
+- Trắng: nền.
+- Cam: nút hành động.
+- Xanh lá: trạng thái hoàn thành.
+
+### 2. Kiểu chữ
+
+- Font chữ dễ đọc, hỗ trợ tiếng Việt.
+- Tiêu đề nổi bật.
+- Nội dung rõ ràng.
+- Không sử dụng chữ quá nhỏ.
+- Các nút có nhãn cụ thể.
+
+### 3. Bố cục
+
+- Card bo góc.
+- Thanh điều hướng rõ ràng.
+- Có thanh tiến độ.
+- Chia nội dung thành từng phần.
+- Không đặt quá nhiều chữ trên cùng màn hình.
+- Hình minh họa đặt cạnh nội dung liên quan.
+
+### 4. Hiệu ứng
+
+- Fade in.
+- Slide nhẹ.
+- Hover.
+- Zoom nhẹ.
+- Animation của kính lúp.
+- Hiệu ứng xuất hiện kết quả tìm kiếm.
+- Hiệu ứng nhận huy hiệu.
+- Sticker chibi chuyển động nhẹ.
+
+Không sử dụng hiệu ứng chớp sáng liên tục hoặc gây mất tập trung.
+
+---
+
+# XVI. YÊU CẦU KỸ THUẬT VÀ THỰC HÀNH
+
+Đây là phần cần được ưu tiên khi xây dựng Website.
+
+**1. Website phải có khu vực thực hành hoạt động thật.**
+
+Không được chỉ tạo ảnh chụp giao diện ô tìm kiếm rồi yêu cầu học sinh tưởng tượng.
+
+Hãy xây dựng một website mẫu tương tác ngay trong Website học tập để học sinh có thể:
+- Chọn danh mục.
+- Nhập từ khóa.
+- Nhấn nút tìm kiếm.
+- Xem kết quả.
+- Mở bài viết.
+- Lựa chọn thông tin.
+- Ghi lại kết quả.
+
+**2. Hệ thống cần ghi nhận thao tác.**
+
+Ví dụ:
+- Học sinh đã chọn chủ đề nào.
+- Đã nhập từ khóa gì.
+- Đã chọn kết quả nào.
+- Kết quả có phù hợp với nhiệm vụ không.
+- Học sinh có hoàn thành nhiệm vụ không.
+
+**3. Dữ liệu thực hành cần được chuẩn bị.**
+
+Tạo một website mô phỏng có các nội dung mẫu về:
+- Thể thao.
+- Hoạt động thiếu nhi.
+- Ngày hội thiếu nhi.
+- Lịch hoạt động trường học.
+- Nhân vật trong bài đọc.
+
+Đánh dấu rõ đây là website dữ liệu mô phỏng phục vụ học tập, không tự nhận là website tin tức thật.
+
+Nếu giáo viên cung cấp website thực tế, hãy ưu tiên sử dụng website đó làm nguồn thực hành. Không tự bịa URL hoặc trình bày nội dung giả lập thành thông tin thật.
+
+**4. Tích hợp AI ở mức phù hợp.**
+
+Nếu nền tảng không có API AI thực tế, sử dụng các tình huống và gợi ý AI giả lập có nội dung được chuẩn bị sẵn. Phải thông báo rõ đây là hoạt động mô phỏng, không tuyên bố đã kết nối AI thật.
+
+**5. Hỗ trợ thiết bị.**
+
+Website tương thích:
+- Máy tính để bàn.
+- Laptop.
+- Máy tính bảng.
+- Điện thoại.
+
+Ưu tiên máy tính có kết nối Internet để tổ chức các hoạt động tìm kiếm và thao tác trên website.
+
+Có phương án thay thế bằng ảnh chụp màn hình website, thẻ nhiệm vụ và phiếu học tập nếu lớp học không đủ thiết bị.
+
+---
+
+# XVII. TỔ CHỨC HỌC TẬP THEO 2 TIẾT
+
+Thiết kế lộ trình bài học phù hợp với thời lượng hai tiết trong tài liệu.
+
+### TIẾT 1: KHÁM PHÁ CÁCH TÌM THÔNG TIN TRÊN WEBSITE
+
+**Hoạt động 1 – Khởi động: Nhiệm vụ của nhóm An**
+
+- Thời lượng: 5 phút.
+- Học sinh quan sát tình huống và xác định điều cần tìm.
+- Sản phẩm: Nêu được nhiệm vụ và một việc cần làm trước khi tìm kiếm.
+
+**Hoạt động 2 – Khám phá website cho trước**
+
+- Thời lượng: 22 phút.
+- Quan sát giao diện website.
+- Nhận biết trang chủ, chủ đề, ô tìm kiếm, tiêu đề và bài viết.
+- Thực hành lựa chọn chủ đề hoặc sử dụng ô tìm kiếm.
+- Nhận biết vai trò hỗ trợ của công cụ tìm kiếm và AI.
+
+Sản phẩm: Khoanh vùng ít nhất hai vị trí hỗ trợ tìm kiếm và đưa ra một từ khóa phù hợp.
+
+**Hoạt động 3 – Củng cố: Chọn cách tìm phù hợp**
+
+- Thời lượng: 8 phút.
+- Thực hiện ba nhiệm vụ: tìm tin về thể thao, lịch hoạt động của trường và thông tin về nhân vật trong bài đọc.
+- Học sinh chọn duyệt chủ đề hoặc sử dụng ô tìm kiếm và giải thích lí do.
+
+### TIẾT 2: THỰC HÀNH VÀ CHIA SẺ THÔNG TIN
+
+**Hoạt động 1 – Khởi động: Từ khóa bí mật**
+
+- Thời lượng: 5 phút.
+- Học sinh lựa chọn từ khóa cho các nhiệm vụ.
+- So sánh từ khóa rõ nghĩa và từ khóa quá chung chung.
+
+**Hoạt động 2 – Thám tử website**
+
+- Thời lượng: 24 phút.
+- Học sinh làm việc theo nhóm 4.
+- Phân công vai trò:
+  - Người đọc nhiệm vụ.
+  - Người khoanh vùng thông tin.
+  - Người ghi kết quả.
+  - Người báo cáo.
+- Tìm thông tin phù hợp.
+- Ghi từ khóa/chủ đề.
+- Kiểm tra thông tin.
+- Chia sẻ kết quả.
+
+Sản phẩm: Phiếu Thám tử website hoàn chỉnh.
+
+**Hoạt động 3 – Củng cố: Quy tắc tìm kiếm có mục đích**
+
+- Thời lượng: 6 phút.
+- Học sinh sắp xếp quy trình tìm kiếm.
+- Nêu ba nguyên tắc khi sử dụng website, công cụ tìm kiếm và AI.
+- Tự đánh giá mức độ hoàn thành.
+
+Thiết kế thanh thời gian và chỉ dẫn để giáo viên có thể sử dụng Website trình chiếu hoặc cho học sinh thao tác trực tiếp.
+
+---
+
+# XVIII. HỆ THỐNG THÀNH TÍCH
+
+Tạo một khu vực mang tên:
+
+**“HỒ SƠ THÁM TỬ CỦA EM”**
+
+Hiển thị:
+- Số nhiệm vụ đã hoàn thành.
+- Số lần tìm kiếm thành công.
+- Số từ khóa phù hợp đã sử dụng.
+- Số kết quả đã kiểm tra.
+- Số hoạt động nhóm đã tham gia.
+- Điểm bài kiểm tra.
+
+Huy hiệu:
+- Thám tử từ khóa.
+- Chuyên gia khám phá website.
+- Người kiểm tra thông tin.
+- Bạn đồng đội tuyệt vời.
+- Nhà thám hiểm AI có trách nhiệm.
+
+Khi hoàn thành toàn bộ bài học, hiển thị:
+
+**“CHÚC MỪNG! EM ĐÃ HOÀN THÀNH HÀNH TRÌNH TRỞ THÀNH THÁM TỬ WEBSITE!”**
+
+---
+
+# XIX. KIỂM TRA CHẤT LƯỢNG WEBSITE
+
+Trước khi hoàn thành, hãy tự đánh giá dựa trên bảng sau:
+
+| Tiêu chí | Yêu cầu cần đạt |
+|---|---|
+| Xác định nhiệm vụ | Học sinh xác định được thông tin cần tìm |
+| Chọn từ khóa | Học sinh chọn được từ khóa rõ ràng, phù hợp |
+| Duyệt website | Biết tìm theo chủ đề |
+| Ô tìm kiếm | Biết sử dụng công cụ tìm kiếm trên website |
+| Chọn kết quả | Tìm được thông tin phù hợp với nhiệm vụ |
+| Kiểm tra thông tin | Biết kiểm tra khi kết quả chưa đúng hoặc chưa đủ |
+| Năng lực AI | Biết AI chỉ hỗ trợ, không tin tuyệt đối |
+| Hợp tác | Biết chia sẻ thông tin với nhóm |
+| Đánh giá | Có bài tập thực hành và sản phẩm học tập |
+| Hình ảnh | Trực quan, sinh động, đúng nội dung |
+| Sticker | Chibi thống nhất, phù hợp học sinh lớp 5 |
+| Kỹ thuật | Các nút, trò chơi và ô tìm kiếm hoạt động thật |
+
+Không được chỉ đánh giá học sinh bằng khả năng chọn đáp án. Cần đánh giá cả quá trình tìm kiếm, tính phù hợp của thông tin, khả năng kiểm tra và sản phẩm chia sẻ.
+
+---
+
+# XX. YÊU CẦU ĐẦU RA CUỐI CÙNG
+
+Hãy xây dựng Website hoàn chỉnh theo toàn bộ nội dung trên.
+
+Sản phẩm phải có:
+
+1. Trang chủ sinh động.
+2. Giới thiệu bài học rõ ràng.
+3. Nhân vật chibi đồng hành.
+4. Nội dung kiến thức đúng yêu cầu cần đạt.
+5. Giao diện website mẫu có thể thao tác.
+6. Hoạt động chọn chủ đề.
+7. Hoạt động nhập từ khóa và tìm kiếm.
+8. Bài tập thực hành cá nhân.
+9. Bài tập thực hành nhóm.
+10. Khu vực kiểm tra thông tin và sử dụng AI.
+11. Phiếu Thám tử website.
+12. Trò chơi tương tác.
+13. Bài kiểm tra cuối bài.
+14. Hệ thống chấm điểm và phản hồi.
+15. Bảng thành tích.
+16. Giao diện responsive.
+
+**Yêu cầu quan trọng nhất:**
+
+Không được biến bài học thành một Website chỉ có lý thuyết về tìm kiếm thông tin. Học sinh phải được trực tiếp thao tác trên một website mẫu, tự nhập từ khóa, lựa chọn kết quả, kiểm tra mức độ phù hợp và hoàn thành nhiệm vụ.
+
+Mọi hoạt động phải phục vụ đúng mục tiêu của bài học: **tìm được thông tin phù hợp, có ích trên website cho trước và biết chia sẻ thông tin với các bạn.**
+
+Thiết kế Website với chất lượng của một sản phẩm giáo dục số chuyên nghiệp, có thể sử dụng trực tiếp trong tiết dạy Tin học lớp 5.
+
+**THÔNG ĐIỆP XUYÊN SUỐT:**
+
+“BIẾT MÌNH CẦN TÌM GÌ – CHỌN ĐÚNG TỪ KHÓA – KIỂM TRA THÔNG TIN – CHIA SẺ THÔNG MINH!”
+
+Bây giờ, hãy bắt đầu xây dựng Website hoàn chỉnh với đầy đủ nội dung, hình ảnh minh họa, sticker chibi và các hoạt động thực hành tương tác.
